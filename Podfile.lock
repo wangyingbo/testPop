@@ -1,0 +1,13 @@
+PODS:
+  - pop (1.0.8)
+  - XHRealTimeBlur (1.7)
+
+DEPENDENCIES:
+  - pop (~> 1.0.8)
+  - XHRealTimeBlur (~> 1.7)
+
+SPEC CHECKSUMS:
+  pop: bb773ae2c791ca2629de13b347e7a8b450fa6a57
+  XHRealTimeBlur: 661fadd5691ba2d349758e8fd5fbdb499ac55f8c
+
+COCOAPODS: 0.39.0
